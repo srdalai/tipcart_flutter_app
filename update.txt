@@ -1,0 +1,27 @@
+On Top appbar
+search
+account
+
+on bottom appbar
+home
+menu/shop
+brandpagge
+notification
+about
+
+on FAB
+cart
+
+in Cart page both cart and wishlist will be there
+wishlist
+
+
+
+
+my orders
+profile
+logout
+
+feedback
+contact us
+about
